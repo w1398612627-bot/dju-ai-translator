@@ -46,7 +46,7 @@ export default function Home() {
 
           {/* 下载按钮 */}
           <a
-            href="/plugin.zip"
+            href="/dju-translator-extension.1.0.zip"
             download
             className="
               px-6
