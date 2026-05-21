@@ -34,7 +34,7 @@ export default function DJUTranslatorWebsite() {
 
             {/* 下载按钮 */}
             <a
-             href="https://github.com/w1398612627-bot/dju-ai-translator/releases/download/v1.0/dju-translator-extension1.0.zip"
+             href="https://github.com/w1398612627-bot/dju-ai-translator/releases/download/v1.0/dju-translator-extension.1.0.zip"
               download
               className="
                 inline-flex
