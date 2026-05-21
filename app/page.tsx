@@ -44,27 +44,6 @@ export default function Home() {
 
           </nav>
 
-          {/* 下载按钮 */}
-          <a
-            href="/dju-translator-extension.1.0.zip"
-            download
-            className="
-              px-6
-              py-3
-              rounded-2xl
-              bg-gradient-to-r
-              from-cyan-400
-              to-blue-500
-              font-bold
-              shadow-lg
-              shadow-cyan-500/30
-              hover:scale-105
-              transition-all
-            "
-          >
-            下载插件
-          </a>
-
         </div>
 
       </header>
@@ -105,7 +84,7 @@ export default function Home() {
             <div className="flex gap-5 flex-wrap">
 
               <a
-                href="/plugin.zip"
+                href="/dju-translator-extension.1.0.zip"
                 download
                 className="
                   px-10
