@@ -147,7 +147,7 @@ export default function DJUTranslatorWebsite() {
 
               {/* 真下载按钮 */}
               <a
-                href="/dju-ai-translator.zip"
+                href="/dju-translator-extension-1.0.zip"
                 download
                 className="
                   inline-flex
